@@ -1,7 +1,8 @@
-package com.example.pedrohenrique.wefind
+package com.example.pedrohenrique.wefind.view.home
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.pedrohenrique.wefind.R
 
 class MainActivity : AppCompatActivity() {
 

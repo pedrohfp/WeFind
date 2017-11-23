@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636074270626",
+    "firebase_url": "https://wefind-880ce.firebaseio.com",
+    "project_id": "wefind-880ce",
+    "storage_bucket": "wefind-880ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636074270626:android:8fa3747f438f2ddf",
+        "android_client_info": {
+          "package_name": "com.example.pedrohenrique.wefind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636074270626-sn1nmmsmmk7421u4nrl5ij4kadko1fvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AnzAdS3XmPQHn8EiPCFGqa5qzDP1SdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
